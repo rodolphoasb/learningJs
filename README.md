@@ -20,3 +20,4 @@ Solução
 		console.log(prop + ":" + " " + obj[prop]);	
 		}
 	}
+
