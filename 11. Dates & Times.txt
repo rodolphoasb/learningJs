@@ -1,6 +1,6 @@
 Dates and Times fall under the Object javascript data type.
 
-```
+```javascript
 const now = new Date();
 
 console.log(now);
